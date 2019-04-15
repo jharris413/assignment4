@@ -1,251 +1,115 @@
 h1 {
-
     text-align: center;
-
     vertical-align: middle;
+    color: rgba(100, 113, 211, 0.65);
 
-    color: #d8dede;
-    font-family: monospace
 }
-
-
 
 p {
-
     text-align: center;
-
-
-
 }
-
-h2 {
-    font-family: monospace;
-    color: #d8dede
-}
-
-
 
 h3 {
-
     text-align: center;
-
     display: block;
-    font-family: monospace;
-    font-size: 21px;
-    border-style: ridge
 }
-
-
 
 img {
     width: 80vw;
-
     vertical-align: middle;
-
     display: block;
-
     margin-left: auto;
-
     margin-right: auto;
-
     padding: 20px 0px 0px 0px;
-
     float: inherit;
 
-
-
 }
-
-
 
 body {
-
-    background-color: #5c9cd4;
-   
-
+    background-color: aliceblue;
 }
 
+img {
+    width: 80vw;
+    vertical-align: middle;
+}
 
 
 img {
     width: 80vw;
-
     vertical-align: middle;
-
 }
-
-
-
-
 
 img {
     width: 80vw;
-
     vertical-align: middle;
-
 }
-
-
-
-img {
-    width: 80vw;
-
-    vertical-align: middle;
-
-}
-
-
-
-
 
 
 
 a {
-
     padding: 0px 0px 10px 0px;
-
     display: block;
-
     text-align: center;
 
-
-
 }
-
-
 
 a:link {
-
-    color: #d8dede;
-    font-family: fantasy;
-
-
-
-
+    color: darkcyan;
 
 }
-
-
 
 a:visited {
-
     color: blue;
-
 }
-
-
 
 a:hover {
-
-    color: #184493;
-
+    color: cornflowerblue;
     text-decoration: underline;
-
     text-decoration-color: cornflowerblue;
-    font-family: cursive;
-
-
 }
-
-
 
 a:active {
-
     color: darkblue;
-
     text-decoration: underline;
-
     text-decoration-color: darkblue;
-
 }
-
-
-
-
 
 
 
 header {
-
     text-align: center;
 
-
-
 }
-
-
-
-
 
 
 
 h2 {
-
     text-align: center;
-
 }
-
-
-
-
 
 
 
 meta {}
 
-
-
 li {
-
     text-align: center
 }
-
-
 
 ul {
     padding-right: 0;
 
-
-
 }
-
-
 
 ul li {
-
     list-style-position: inside;
-
 }
-
-title {}
-
-
-
-
-
-
-
-
-
-
-
-div {
-
-    column-count: 2;
-
-}
-
-
-
-div {}
-
-
 
 footer {
-
     text-align: center;
-
-    color: #8b1c1c;
-
+    color: firebrick;
 }
- 
+
+#twocolumn {
+    column-count: 2;
+}
